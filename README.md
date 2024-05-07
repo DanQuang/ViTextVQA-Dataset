@@ -81,7 +81,7 @@ If you use ViTextVQA dataset in your research, please cite our paper (preprint):
 
 ## Contact
 
-For any inquiries or feedback regarding the ViTextVQA dataset, please contact  [21521333@gm.uit.edu.vn](mailto:21521333@gm.uit.edu.vn) or [haryquan.minh@gmail.com](mailto:haryquan.minh@gmail.com).
+For any inquiries or feedback regarding the ViTextVQA dataset, please contact  [21521917@gm.uit.edu.vn](mailto:21521917@gm.uit.edu.vn) or [tquangdan03@gmail.com](mailto:tquangdan03@gmail.com).
 
 Thank you for your interest in ViTextVQA! We hope this dataset contributes to the advancement of research in text-based Visual Question Answering around the world, especially in Vietnam.
 
